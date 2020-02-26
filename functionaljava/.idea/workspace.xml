@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e90b4da-4243-4170-aca6-539c80c8232c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_BiConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +35,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YLrWjAJaJ9Di48hfqAWbbhtLNO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,15 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._Consumer">
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="imperative.MainTest" />
+  <component name="RunManager" selected="Application._BiConsumer">
+    <configuration name="_BiConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterface._BiConsumer" />
       <module name="functionaljava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="imperative.*" />
+          <option name="PATTERN" value="functionalinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainTest" />
       <item itemvalue="Application._FunctionWithApply" />
       <item itemvalue="Application._FunctionWithAndThen" />
       <item itemvalue="Application._FunctionWithBiFunction" />
       <item itemvalue="Application._Consumer" />
+      <item itemvalue="Application._BiConsumer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._BiConsumer" />
         <item itemvalue="Application._Consumer" />
         <item itemvalue="Application._FunctionWithBiFunction" />
         <item itemvalue="Application._FunctionWithAndThen" />
         <item itemvalue="Application._FunctionWithApply" />
-        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582732748847</updated>
-      <workItem from="1582732751664" duration="7671000" />
+      <workItem from="1582732751664" duration="9693000" />
     </task>
     <servers />
   </component>
