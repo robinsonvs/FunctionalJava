@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e90b4da-4243-4170-aca6-539c80c8232c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Function2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/imperative/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imperative/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/imperative/MainTest$Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/imperative/MainTest$Gender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/imperative/MainTest$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/imperative/MainTest$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/imperative/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/imperative/MainTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +44,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="functionalinterface" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -62,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._Function">
+  <component name="RunManager" selected="Application._Function2">
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -91,12 +90,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_Function2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterface._Function2" />
+      <module name="functionaljava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MainTest" />
       <item itemvalue="Application._Function" />
+      <item itemvalue="Application._Function2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._Function2" />
         <item itemvalue="Application._Function" />
         <item itemvalue="Application.MainTest" />
       </list>
@@ -122,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582732748847</updated>
-      <workItem from="1582732751664" duration="4031000" />
+      <workItem from="1582732751664" duration="4816000" />
     </task>
     <servers />
   </component>
