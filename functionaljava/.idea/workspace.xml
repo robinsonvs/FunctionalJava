@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e90b4da-4243-4170-aca6-539c80c8232c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Predicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_Supplier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._Predicate">
+  <component name="RunManager" selected="Application._Supplier">
     <configuration name="_BiConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalinterface._BiConsumer" />
       <module name="functionaljava" />
@@ -80,19 +79,6 @@
     </configuration>
     <configuration name="_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalinterface._Consumer" />
-      <module name="functionaljava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functionalinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_FunctionWithAndThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalinterface._FunctionWithAndThen" />
       <module name="functionaljava" />
       <extension name="coverage">
         <pattern>
@@ -130,20 +116,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_Supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterface._Supplier" />
+      <module name="functionaljava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application._FunctionWithAndThen" />
       <item itemvalue="Application._FunctionWithBiFunction" />
       <item itemvalue="Application._Consumer" />
       <item itemvalue="Application._BiConsumer" />
       <item itemvalue="Application._Predicate" />
+      <item itemvalue="Application._Supplier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._Supplier" />
         <item itemvalue="Application._Predicate" />
         <item itemvalue="Application._BiConsumer" />
         <item itemvalue="Application._Consumer" />
         <item itemvalue="Application._FunctionWithBiFunction" />
-        <item itemvalue="Application._FunctionWithAndThen" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582732748847</updated>
-      <workItem from="1582732751664" duration="11128000" />
+      <workItem from="1582732751664" duration="11709000" />
     </task>
     <servers />
   </component>
