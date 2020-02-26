@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e90b4da-4243-4170-aca6-539c80c8232c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_FunctionWithBiFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/functionalinterface/_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_FunctionWithApply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/functionalinterface/_Function2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalinterface/_FunctionWithAndThen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Function2.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3e90b4da-4243-4170-aca6-539c80c8232c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582732748847</updated>
-      <workItem from="1582732751664" duration="6356000" />
+      <workItem from="1582732751664" duration="6745000" />
     </task>
     <servers />
   </component>
